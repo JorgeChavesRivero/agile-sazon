@@ -21,7 +21,7 @@
 - **Capacidades:** ...
 - **Contacto / Redes:** ...
 
-### [Nombre del Integrante 4] - [Rol]
+### [Miguel Gomez] - [Backend Dev]
 - **Experiencia:** Estudiante Asistente en Desarrollo de Sofware  
 - **Capacidades:**
 - **Fortalezas:** trabajo en equipo, liderazgo, reponsabilidad
