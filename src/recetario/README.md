@@ -22,9 +22,14 @@
 - **Contacto / Redes:** ...
 
 ### [Nombre del Integrante 4] - [Rol]
-- **Experiencia:** ...
-- **Capacidades:** ...
-- **Contacto / Redes:** ...
+- **Experiencia:** Estudiante Asistente en Desarrollo de Sofware  
+- **Capacidades:**
+- **Fortalezas:** trabajo en equipo, liderazgo, reponsabilidad
+-**Habilidades tecnicas:** HTML,CSS,Javascript, Java, SQL
+- **Contacto / Redes:** 
+-Github: [https://github.com/mg5539891-source] (https://github.com/mg5539891-source)
+-Correo: mg553981@gmail.com
+
 
 ### [Nombre del Integrante 5] - [Rol]
 - **Experiencia:** ...
