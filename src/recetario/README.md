@@ -16,10 +16,15 @@
 - **Capacidades:** ...
 - **Contacto / Redes:** ...
 
-### [Nombre del Integrante 3] - [Rol]
-- **Experiencia:** ...
-- **Capacidades:** ...
-- **Contacto / Redes:** ...
+### Cristian Camilo - Desarrollador Backend 
+- **Experiencia:** - Estudiante de Desarrollo de Software con interés en programación, bases de datos y desarrollo web. Comprometido con aprender y aportar al equipo en cada etapa del proyecto.
+
+- **Capacidades:**- Responsabilidad, puntualidad, trabajo en equipo, disposición para aprender, apoyo constante al grupo.
+HTML, CSS, JavaScript básico, Java, MySQL, lógica de programación.
+
+- **Contacto / Redes:** 
+-GitHub:https://github.com/cristiancamilocruzosorio5-maker
+-Correo:cristiancamilocruzosorio5@gmail.com
 
 ### [Nombre del Integrante 4] - [Rol]
 - **Experiencia:** ...
